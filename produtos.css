@@ -1,16 +1,25 @@
-header {
-    background-color: rgb(255, 176, 231);
+body {
+    color-scheme: calc();
+    background-color:pink;
 }
 
-nav li {
-    display: inline;
-    margin: 0 0 0 15px;
+h1{
+    text-align: center;
+    color: rgb(0, 0, 0)
 }
 
-nav a {
-    text-transform: uppercase;
-    color:black;
-    font-weight:blanchedalmond;
-    font-size: 22px;
-    text-decoration: none;
+h2 {
+    text-align: center;
 }
+ h3 {
+    text-align: center;
+ }
+
+ h4 {
+
+text-align: center;
+ }
+
+ p {
+    text-align: center;
+ }
