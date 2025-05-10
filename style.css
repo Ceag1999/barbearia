@@ -31,4 +31,5 @@ text-align: center;
     padding: 13px;
     display: flex;
     align-items: center;
+    justify-content: space-around;
  }
