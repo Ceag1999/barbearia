@@ -35,3 +35,7 @@ text-align: center;
     flex-direction: row; 
     gap: 13;
  }
+
+ .conteudo {
+    border-top: 0.4px solid ;
+ }
