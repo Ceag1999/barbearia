@@ -30,4 +30,5 @@ text-align: center;
     width: 5%;
     padding: 13px;
     display: flex;
+    align-items: center;
  }
