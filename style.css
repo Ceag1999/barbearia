@@ -1,11 +1,11 @@
 body {
     color-scheme: calc();
-    background-color:pink;
+    background-color:rgb(236, 152, 166);
 }
 
 h1{
     text-align: center;
-    color: rgb(90, 16, 62)
+    color: rgb(0, 0, 0)
 }
 
 h2 {
