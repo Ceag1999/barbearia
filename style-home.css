@@ -35,3 +35,12 @@ text-align: center;
     flex-direction: row; 
     gap: 13;
  }
+ nav {
+    max-width: 1120px;
+    margin: auto;
+    padding: 1,5rem 10rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+ }
