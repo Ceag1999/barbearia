@@ -35,7 +35,7 @@ text-align: center;
     flex-direction: row; 
     gap: 13;
  }
- 
+
  nav {
     max-width: 1120px;
     margin: auto;
@@ -44,4 +44,8 @@ text-align: center;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+ }
+
+ .produtos {
+    font-weight: 600s;
  }
