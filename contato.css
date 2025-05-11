@@ -2,3 +2,13 @@
    font-size: medium;
    margin-top: 20%;
 }
+
+.logo {
+    width: 5%;
+    padding: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row; 
+    gap: 13;
+}
